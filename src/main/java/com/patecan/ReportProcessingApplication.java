@@ -14,6 +14,7 @@ import java.util.function.Function;
 @SpringBootApplication
 public class ReportProcessingApplication implements CommandLineRunner {
 
+
     @Autowired
     private MainProcessor mainProcessor;
 
